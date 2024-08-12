@@ -33,7 +33,7 @@ function Hero() {
             >
               Get in touch
             </a>
-            <a href="https://drive.google.com/file/d/1EhUDtRBIqeTUuYm-KtYJg_VdT0qFL2UN/view?usp=drive_link" target="_blank" className="text-sm font-semibold leading-6 text-gray-900 hover:underline">
+            <a href="https://drive.google.com/file/d/1pmy3bm0Yom56MX-35nWKmIXobPCk6FWA/view?usp=drivesdk" target="_blank" className="text-sm font-semibold leading-6 text-gray-900 hover:underline">
               View Resume <span aria-hidden="true">→</span>
             </a>
           </div>
