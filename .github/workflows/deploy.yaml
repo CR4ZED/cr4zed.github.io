@@ -43,7 +43,7 @@ jobs:
           path: ./dist
 
       - name: Create CNAME file
-        run: echo 'ankushjha.com' > ./dist/CNAME && echo 'www.ankushjha.com' >> ./dist/CNAME
+        run: echo 'www.ankushjha.com' >> ./dist/CNAME
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
